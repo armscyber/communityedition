@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dokan_mirror", "dokan_mirror.vcxproj", "{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Debug|ARM.Build.0 = Debug|ARM
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Debug|ARM64.Build.0 = Debug|ARM64
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Debug|x64.ActiveCfg = Debug|x64
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Debug|x64.Build.0 = Debug|x64
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Debug|x86.ActiveCfg = Debug|Win32
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Debug|x86.Build.0 = Debug|Win32
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Release|ARM.ActiveCfg = Release|ARM
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Release|ARM.Build.0 = Release|ARM
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Release|ARM64.ActiveCfg = Release|ARM64
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Release|ARM64.Build.0 = Release|ARM64
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Release|x64.ActiveCfg = Release|x64
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Release|x64.Build.0 = Release|x64
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Release|x86.ActiveCfg = Release|Win32
+		{DADCBCAD-4429-422E-9FA9-D8E538D0EF94}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B58559-6B39-4491-824F-E29E490293B1}
+	EndGlobalSection
+EndGlobal
